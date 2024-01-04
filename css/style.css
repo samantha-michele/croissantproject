@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(248, 199, 108);
+  text-align: center;
+}
+img {
+  border-radius: 20px;
+}
+a {
+  color: green;
+  margin-right: 10px;
+}
+#email {
+  color: blue;
+}
